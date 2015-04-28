@@ -1,6 +1,6 @@
 # Second Quantization
 
-What is Second Quantization and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory. Originally written on December 15, 2005.
+What is _Second Quantization_ and where does it fit in the overall scheme of Physics? This essay is a foray into the history of the early days of Quantum Mechanics and Quantum Field Theory. Originally written on December 15, 2005.
 
 ## Creator
 
